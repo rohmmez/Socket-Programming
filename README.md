@@ -1,4 +1,4 @@
-# Socket-Programming-Project
+# Socket-Programming
 EE450 Socket Programming Project in 2019 Spring(Used C language)
 
   In order to run the program, we need to open six terminals. One for running Makefile, one for running client, one for running aws server, one for running server A, one for running server B and one for running monitor.
